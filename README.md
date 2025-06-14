@@ -1,2 +1,1 @@
-# Test-Today-Saturday
-Testing the MCP Lambda function
+This repository was created by the MCP Lambda function.
